@@ -1,0 +1,60 @@
+#kata {
+  font-size: 2rem;
+}
+
+span {
+  color: #23c9e3;
+}
+
+/* .garis_keatas {
+    
+    border-left: 1px black solid;
+    height: 180px;
+    width: 0px;
+  } */
+
+footer {
+  background-color: #23c9e3;
+  padding-top: 14rem;
+  padding: 44px;
+  text-align: center;
+}
+
+footer small {
+  color: black;
+}
+
+/* Awal Benner */
+section {
+  padding: 100px 0;
+}
+
+.jumbotron {
+  background-color: #c1f7f5;
+
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 150px 0;
+}
+
+.jumbotron img {
+  width: 145px;
+  border-radius: 300px;
+  box-shadow: 0 3px 5px #fff;
+  margin-bottom: 15px;
+}
+
+.jumbotron h2 {
+  margin-bottom: 15px;
+  color: black;
+}
+
+.jumbotron p {
+  color: black;
+}
+
+.jumbotron-left {
+  padding-left: 25px;
+}
+
+/* Akhir Benner */
